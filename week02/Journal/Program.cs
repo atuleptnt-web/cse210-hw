@@ -1,6 +1,6 @@
 // Added feature to save journal with user name
 // Added feature to load data from saved journal by typing name of journal
-// case 3 and case 4 contain the codes
+// case 3 and case 4 contain the codes for saving and retrieving
 using System;
 
 public class Program
